@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ... Bachelors Degree
-- 🌱 I’m currently learning ... DevOps
+- 🌱 I’m currently learning ... DevOps and Ethical hacking
 - 👯 I’m looking to collaborate on ... DevOps
 - 🤔 I’m looking for help with ... AWS
 - 💬 Ask me about ... Anything
